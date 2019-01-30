@@ -1,0 +1,10 @@
+{
+  "types": "types",
+  "name": "repro-dtslint-error",
+  "scripts": {
+    "test": "dtslint types"
+  },
+  "devDependencies": {
+    "dtslint": "^0.4.2"
+  }
+}
